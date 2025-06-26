@@ -1,5 +1,6 @@
 # CS120
 Project Overview
+
 This project is a C++ console application designed to help the Corner Grocer analyze item purchase patterns from their daily records. The store generates a log of every item purchased throughout the day, and this program processes that file to determine how often each item appears. It provides a simple menu interface where users can look up individual item frequencies, view a list of all items with counts, or display a histogram that visualizes those frequencies. The program also automatically generates a backup file for reference. The purpose of this tool is to help the store make informed decisions about how to arrange their produce section based on customer behavior.
 
 Reflection
